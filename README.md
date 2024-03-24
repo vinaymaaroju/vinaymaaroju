@@ -1,7 +1,7 @@
- [![MasterHead](https://www.google.com/imgres?imgurl=https%3A%2F%2Ft4.ftcdn.net%2Fjpg%2F01%2F35%2F92%2F85%2F360_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg&tbnid=Krpy16CZI6PaVM&vet=12ahUKEwiYloqkjI2FAxVJb2wGHVbrBM8QMygAegQIARBO..i&imgrefurl=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Dprogrammer%2Bcartoon&docid=8YZqRq27QWN2GM&w=381&h=360&q=animated%20coding%20images&ved=2ahUKEwiYloqkjI2FAxVJb2wGHVbrBM8QMygAegQIARBO)}
+
 <h1 align="center">Hi 👋, I'm Vinay Kumar</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Ft4.ftcdn.net%2Fjpg%2F01%2F35%2F92%2F85%2F360_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg&tbnid=Krpy16CZI6PaVM&vet=12ahUKEwiYloqkjI2FAxVJb2wGHVbrBM8QMygAegQIARBO..i&imgrefurl=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Dprogrammer%2Bcartoon&docid=8YZqRq27QWN2GM&w=381&h=360&q=animated%20coding%20images&ved=2ahUKEwiYloqkjI2FAxVJb2wGHVbrBM8QMygAegQIARBO"
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinaymaaroju&label=Profile%20views&color=0e75b6&style=flat" alt="vinaymaaroju" /> </p>
 
